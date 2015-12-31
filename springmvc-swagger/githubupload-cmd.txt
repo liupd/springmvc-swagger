@@ -1,0 +1,18 @@
+https://help.github.com/articles/generating-ssh-keys/
+进行生成ssh_key秘钥
+按照命令一直回车就可以
+
+在github中setting设置秘钥进行保存
+
+找到你要上传的文件目录：
+使用如下命令：
+（1） $ git add .
+（2） $ git commit -m "test"（引号中随便写）
+（3） $ git pull
+（4） $ git push -u origin master
+
+
+
+
+
+
